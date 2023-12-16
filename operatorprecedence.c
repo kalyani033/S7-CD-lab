@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<string.h>
 void main(){
 char stack[20],ip[20],opt[10][10][1],ter[10];
 int i,j,k,n,top=0,col,row;
