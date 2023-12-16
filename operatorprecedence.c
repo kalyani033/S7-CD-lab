@@ -16,7 +16,7 @@ for(i=0;i<10;i++)
 printf("Enter the no.of terminals :\n");
 scanf("%d",&n);
 printf("\nEnter the terminals :\n");
-scanf("%s",&ter);
+scanf("%s",ter);
 printf("\nEnter the table values :\n");
 for(i=0;i<n;i++)
 {
